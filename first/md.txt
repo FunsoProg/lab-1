@@ -1,0 +1,4 @@
+This is the first practice on how to setup a git and to have the 3 architecture framework which are:
+working directory
+staging area and,
+repository
